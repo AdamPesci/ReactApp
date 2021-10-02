@@ -3,6 +3,16 @@ This project was made by following along with the react crash course video by Tr
 Please see their video here https://www.youtube.com/watch?v=w7ejDZ8SWv8. 
 
 
+## To Run
+### `npm run server`
+### `npm run build`
+
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
